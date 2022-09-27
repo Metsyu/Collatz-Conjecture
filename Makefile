@@ -1,7 +1,7 @@
 
 GCC         = gcc
-EXE	    	= collatz
-OBJ	    	= collatz.o
+EXE	    = collatz
+OBJ	    = collatz.o
 SOURCE      = collatz.c
 
 default: $(EXE)
